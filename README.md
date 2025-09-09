@@ -59,7 +59,7 @@ Bellabeat-Project/
 
 * **Data Sources**: Original Kaggle Fitbit dataset (CC0 Public Domain).
 * **R Code**: Modular scripts in `code/` folder.
-* **Tableau**: Dashboard workbook in `tableau/`.
+* **Tableau**: Dashboard workbook in `tableau/`, [View the Bellabeat Dashboard – Exercises](https://public.tableau.com/views/ExercisesBellabeat/Dashboard1?:language=en-GB&:sid=&:redirect=auth&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 * **Presentation**: Final slide deck in `presentation/`.
 
 ---
