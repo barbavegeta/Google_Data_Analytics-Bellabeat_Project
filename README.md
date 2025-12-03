@@ -30,7 +30,7 @@ Google_Data_Analytics-Bellabeat-Project/
 These are the **processed summary tables** created for analysis and visualisation:
 - `user_summary.csv`  
   Main user-level summary table (activity / intensity / heart rate / sleep / weight metrics per user).
-- `user_summary_write4.csv`  
+- `user_summary_write.csv`  
   Final export of `user_summary` tailored for Tableau (cleaned column names, simplified structure).
 - `avg_daily_steps.csv`  
   Average daily steps per user.
