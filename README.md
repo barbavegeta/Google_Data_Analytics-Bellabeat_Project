@@ -5,6 +5,10 @@ The goal is to analyse Fitbit-style activity data to:
 - Identify patterns in activity, intensity, heart rate, sleep, and weight change.
 - Generate concrete, data-backed recommendations for how Bellabeat could position and improve its products.
 The analysis is implemented in **R** and summarised in a **Tableau dashboard** and a short slide presentation.
+
+Tech stack: R · dplyr · SQLite · ggplot2 · Tableau · SQL
+
+
 ---
 ## Repository structure
 ```text
