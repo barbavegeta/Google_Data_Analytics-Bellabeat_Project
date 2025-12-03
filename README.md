@@ -1,4 +1,4 @@
-# Bellabeat Fitbit Data Analysis – Usage Patterns & Wellness Insights
+# Bellabeat Fitbit Data Analysis - Usage Patterns & Wellness Insights
 This repository contains my work for the **Bellabeat case study** from the Google Data Analytics programme.
 The goal is to analyse Fitbit-style activity data to:
 - Understand how users actually engage with their wearable devices.
